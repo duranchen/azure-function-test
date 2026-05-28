@@ -1,0 +1,3 @@
+# DO NOT include azure-functions-worker or azure-functions-worker-extensions in this file
+# The Python Worker is managed separately
+azure-functions
